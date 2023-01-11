@@ -12,8 +12,11 @@ Home automation using Augmented Reality (AR) involves using AR technology to con
 ✍Some examples of home automation using AR include:
 
 〽️Controlling lights by pointing at the switch and using hand gestures or voice commands.
+
 〽️Previewing how furniture would look in a room by using AR to superimpose virtual objects into the view of a smartphone or tablet camera.
+
 〽️Using AR-enabled smart glasses to display notifications, temperature and other information and control the smart appliances in the home.
+
 〽️In addition to making it more convenient for users to control and manage their home systems, home automation using AR also has the potential to improve energy efficiency by providing users with more detailed information about their energy usage and allowing them to make more informed decisions about how to reduce it.
 
 Overall, Home automation using AR can make the process of controlling the home easy and interactive and the technology is still in development stage, therefore it's not yet widely adopted for home automation.
