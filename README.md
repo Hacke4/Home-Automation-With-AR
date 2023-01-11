@@ -22,5 +22,7 @@ Home automation using Augmented Reality (AR) involves using AR technology to con
 Overall, Home automation using AR can make the process of controlling the home easy and interactive and the technology is still in development stage, therefore it's not yet widely adopted for home automation.
 
 📌📌We havent developed it till the end.
+
 I have contributed my work upto resources i've been working on.
-For AR I have used [Unity](https://docs.unity3d.com/2020.1/Documentation/Manual/GettingStartedUnityHub.html) Hub which helped me in making the work easier to me.
+
+For AR I have used [Unity Hub](https://docs.unity3d.com/2020.1/Documentation/Manual/GettingStartedUnityHub.html)  which helped me in making the work easier to me.
