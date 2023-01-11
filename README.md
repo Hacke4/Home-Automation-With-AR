@@ -26,3 +26,9 @@ Overall, Home automation using AR can make the process of controlling the home e
 I have contributed my work upto resources i've been working on.
 
 For AR I have used [Unity Hub](https://docs.unity3d.com/2020.1/Documentation/Manual/GettingStartedUnityHub.html)  which helped me in making the work easier to me.
+
+
+
+
+https://user-images.githubusercontent.com/53545172/211766933-f3f10fab-f91f-425c-b110-26b369d2fc13.mp4
+
